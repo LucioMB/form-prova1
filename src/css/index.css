@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    border: 1px solid #000;
+}
+
+.formName {
+    width: 300px;
+}
+
+.formZipCode {
+    width: 150px;
+}
+
+.formSubmit {
+    width: 10px;
+}
